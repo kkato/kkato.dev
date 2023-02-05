@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-02-05T22:39:40+09:00
-draft: true
+draft: false
 ---
 
 # Ken Kato
