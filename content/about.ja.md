@@ -5,13 +5,13 @@ draft: false
 ---
 
 # 加藤 健
-東京でデータベースエンジニアをしています。OSSに興味があり、PostgreSQLやkubernetes、Prometheusなどを仕事で触っています。
+東京でデータベースエンジニアをしています。OSSに興味があり、PostgreSQLやkubernetes、Prometheusなどを触っています。
 
 ## 職歴
 - 2021-現在 NTTデータ
 
 ## 学歴
-- クイーンズ大学 物理学専攻
+- クイーンズ大学 学士課程 物理学専攻
 - ジョージア工科大学院 修士課程 CS専攻
 
 ## 趣味
