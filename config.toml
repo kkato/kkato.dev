@@ -1,4 +1,62 @@
-baseURL = "http://example.org/"
+baseURL = "https://kkato.dev/"
+defaultContentLanguage = ["en", "ja"]
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ken Kato's tech blog"
 theme = "LoveIt"
+
+[languages.en]
+weight = 1
+languageCode = "en-us"
+languageName = 'English'
+hasCJKLanguage = false
+
+[languages.ja]
+weight = 2
+languageCode = "ja"
+languageName = '日本語'
+hasCJKLanguage = true
+
+[author]
+name = "Ken Kato"
+email = "kkato149@gmail.com"
+
+[params.home]
+rss = 10
+[params.home.profile]
+enable = true
+avatarURL = "/images/sagarifuji.png"
+subtitle = "Ken Kato's tech blog"
+typeit = true
+social = true
+[params.home.posts]
+enable = true
+pagenate = 6
+defaultHiddenFromHomePage = false
+
+[menu]
+[[menu.main]]
+identifier = "Posts"
+name = "Posts"
+url = "/posts/"
+title = ""
+weight = 1
+[[menu.main]]
+identifier = "Categories"
+name = "Categories"
+url = "/categories/"
+title = ""
+weight = 2
+[[menu.main]]
+identifier = "About"
+name = "About"
+url = "/About/"
+title = ""
+weight = 3
+
+[markup]
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = true
+lineNumbersInTable = true
+noClasses = false

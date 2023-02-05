@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ken Kato&#39;s tech blog</title>
+        <link>https://kkato.dev/ja/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><managingEditor>kkato149@gmail.com (Ken Kato)</managingEditor>
+            <webMaster>kkato149@gmail.com (Ken Kato)</webMaster>
+            <atom:link href="https://kkato.dev/ja/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
