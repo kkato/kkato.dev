@@ -1,62 +1,76 @@
 baseURL = "https://kkato.dev/"
-defaultContentLanguage = ["en", "ja"]
-languageCode = "en-us"
-title = "Ken Kato's tech blog"
+defaultContentLanguage = ["ja", "en"]
+languageCode = "en"
+title = "kkato.dev"
 theme = "LoveIt"
 
-[languages.en]
-weight = 1
-languageCode = "en-us"
-languageName = 'English'
-hasCJKLanguage = false
+[author]
+  name = "Ken Kato"
+  email = "kkato149@gmail.com"
+
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "Posts"
+    name = "Posts"
+    url = "/posts/"
+    title = "Posts - kkato.dev"
+  [[menu.main]]
+    weight = 2
+    identifier = "Categories"
+    name = "Categories"
+    url = "/categories/"
+    title = "Categories - kkato.dev"
+  [[menu.main]]
+    weight = 3
+    identifier = "Tags"
+    name = "Tags"
+    url = "/tags/"
+    title = "Tags - kkato.dev"
+  [[menu.main]]
+    weight = 4
+    identifier = "About"
+    name = "About"
+    url = "/about"
+    title = "About - kkato.dev"
+
+[params]
+  images = ["images/sagarifuji.png"]
+  [params.header]
+    [params.header.title]
+      name = "kkato.dev"
+      pre = "<i class='fas fa-caret-right' aria-hidden='true'></i>"
+  [params.footer]
+    enable = true
+    hugo = true
+    copyright = true
+    author = true
+    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+  [params.search]
+    enable = true
+  [params.home]
+    rss = 10
+    [params.home.profile]
+      enable = true
+      avatarURL = "/images/sagarifuji.png"
+      subtitle = "Ken Kato's tech blog"
+      typeit = true
+      social = true
+    [params.home.posts]
+      enable = true
+      pagenate = 6
+  [params.social]
+    GitHub = "kkato"
+    Linkedin = "ken-kato"
 
 [languages.ja]
-weight = 2
+weight = 1
 languageCode = "ja"
 languageName = '日本語'
 hasCJKLanguage = true
 
-[author]
-name = "Ken Kato"
-email = "kkato149@gmail.com"
-
-[params.home]
-rss = 10
-[params.home.profile]
-enable = true
-avatarURL = "/images/sagarifuji.png"
-subtitle = "Ken Kato's tech blog"
-typeit = true
-social = true
-[params.home.posts]
-enable = true
-pagenate = 6
-defaultHiddenFromHomePage = false
-
-[menu]
-[[menu.main]]
-identifier = "Posts"
-name = "Posts"
-url = "/posts/"
-title = ""
-weight = 1
-[[menu.main]]
-identifier = "Categories"
-name = "Categories"
-url = "/categories/"
-title = ""
+[languages.en]
 weight = 2
-[[menu.main]]
-identifier = "About"
-name = "About"
-url = "/About/"
-title = ""
-weight = 3
-
-[markup]
-[markup.highlight]
-codeFences = true
-guessSyntax = true
-lineNos = true
-lineNumbersInTable = true
-noClasses = false
+languageCode = "en-us"
+languageName = 'English'
+hasCJKLanguage = false
