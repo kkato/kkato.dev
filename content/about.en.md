@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Ken Kato
-I am a database engineer from Japan. I am interested in OSS and currently learning PostgreSQL, kubrentes, and Prometheus.
+I am working on PostgreSQL on k8s. I am in charge of designing and building a monitoring and logging infrastructure of PostgreSQL. I am interested in OSS and I am not only using it, but also contributing to its development.
 
 ## Experience
 - 2021 - Current NTT Data
@@ -17,4 +17,3 @@ I am a database engineer from Japan. I am interested in OSS and currently learni
 ## Hobby
 - Bouldering
 - Tennis
-- Sauna
