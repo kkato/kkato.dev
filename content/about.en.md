@@ -8,7 +8,7 @@ draft: false
 I am working on PostgreSQL on k8s. I am in charge of designing and building a monitoring and logging infrastructure of PostgreSQL. I am interested in OSS and I am not only using it, but also contributing to its development.
 
 ## Experience
-- 2021 - Current NTT Data
+- 2021 - Current: Database Engineer @NTT Data 
 
 ## Education
 - Master of Science in Computer Science from Georgia Institute of Technology
