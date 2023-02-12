@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Ken Kato
-I am working on PostgreSQL on k8s. I am in charge of designing and building a monitoring and logging infrastructure using Prometheus. I am interested in OSS and I am not only using it, but also contributing to its development.
+I am working on PostgreSQL on k8s. I am in charge of designing and building a monitoring infrastructure using Prometheus. I am interested in OSS and I am not only using it, but also contributing to its development.
 
 ## Experience
 - Database Engineer @ NTT Data (2021 - Current)
