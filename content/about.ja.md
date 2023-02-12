@@ -5,15 +5,31 @@ draft: false
 ---
 
 # 加藤 健
-PostgreSQLの研究開発をしています。PostgreSQLをk8s上で動かす取り組みをしており、PostgreSQLを監視するためのモニタリング・ロギング基盤の設計・構築を担当しています。OSSに興味があり、OSSを使用するだけでなく、OSSの開発貢献にも取り組んでいます。
+PostgreSQLの研究開発をしています。PostgreSQLをk8s上で動かす取り組みをしており、Prometheusを使ったモニタリング・ロギング基盤の設計・構築を担当しています。OSSに興味があり、OSSを使用するだけでなく、OSSの開発にも貢献しています。
 
-## 経歴
-- 2021-現在 NTTデータ
+## 職歴
+### NTTデータ (2021 - 現在)
+- データベースエンジニア
 
 ## 学歴
-- ジョージア工科大学院 修士課程 CS専攻
-- クイーンズ大学 学士課程 物理学専攻
+### ジョージア工科大学
+- 修士(理学) CS専攻
+### クイーンズ大学
+- 学士(理学) 物理学専攻
 
-## 趣味
-- ボルダリング
-- テニス
+## スキル
+- Python
+- Go
+- Linux
+- PostgreSQL
+- Kubernetes
+- Prometheus
+
+## 資格
+- 基本情報技術者
+- LinuC Level 2
+- OSS-DB Gold
+- AWS Solutions Architect Associate
+
+## OSS貢献
+- PostgreSQL
