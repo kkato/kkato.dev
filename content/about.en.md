@@ -8,24 +8,19 @@ draft: false
 I am working on PostgreSQL on k8s. I am in charge of designing and building a monitoring and logging infrastructure using Prometheus. I am interested in OSS and I am not only using it, but also contributing to its development.
 
 ## Experience
-- NTT Data (2021 - Current)
-    - Database Engineer
+- Database Engineer @ NTT Data (2021 - Current)
 
 ## Education
-- Georgia Institute of Technology
-    - Master of Science in Computer Science
-- Queen's University
-    - Bachelor of Science (Honours) in Physics
+- Master of Science in Computer Science from Georgia Institute of Technology 
+- Bachelor of Science (Honours) in Physics from Queen's University 
 
 ## Skill
-- Programming Languages
-    - Python
-    - Go
-- Tools
-    - Linux
-    - PostgreSQL
-    - Kubernetes
-    - Prometheus
+- Python
+- Go
+- Linux
+- PostgreSQL
+- Kubernetes
+- Prometheus
 
 ## Certificate
 - AWS Solutions Architect Associate
