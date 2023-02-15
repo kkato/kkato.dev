@@ -34,7 +34,7 @@ theme = "LoveIt"
     url = "/portofolio/"
     title = "Portfolio - kkato.dev"
   [[menu.main]]
-    weight = 4
+    weight = 5
     identifier = "About"
     name = "About"
     url = "/about"
