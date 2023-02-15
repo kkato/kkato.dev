@@ -59,7 +59,7 @@ theme = "LoveIt"
     [params.home.profile]
       enable = true
       avatarURL = "/images/sagarifuji.png"
-      subtitle = "Ken Kato's tech blog"
+      subtitle = "Ken Kato's web site"
       typeit = true
       social = true
     [params.home.posts]
