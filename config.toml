@@ -1,6 +1,6 @@
 baseURL = "https://kkato.dev/"
-defaultContentLanguage = ["ja", "en"]
-languageCode = "en"
+[](defaultContentLanguage = ["ja", "en"])
+languageCode = "ja"
 title = "kkato.dev"
 theme = "LoveIt"
 
@@ -75,6 +75,7 @@ theme = "LoveIt"
     GitHub = "kkato"
     Linkedin = "ken-kato"
 
+<!-- 
 [languages.ja]
 weight = 1
 languageCode = "ja"
@@ -86,3 +87,4 @@ weight = 2
 languageCode = "en-us"
 languageName = 'English'
 hasCJKLanguage = false
+--!>
