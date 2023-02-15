@@ -29,6 +29,12 @@ theme = "LoveIt"
     title = "Tags - kkato.dev"
   [[menu.main]]
     weight = 4
+    identifier = "Portofolio"
+    name = "Portfolio"
+    url = "/portofolio/"
+    title = "Portfolio - kkato.dev"
+  [[menu.main]]
+    weight = 4
     identifier = "About"
     name = "About"
     url = "/about"

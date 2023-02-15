@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Ken Kato
-I am working on PostgreSQL on k8s. I am in charge of designing and building a monitoring infrastructure using Prometheus. I am interested in OSS and I am not only using it, but also contributing to its development.
+Hi! I am a databse engineer from Japan. I am currently working on PostgreSQL on k8s. I am in charge of designing and building a monitoring infrastructure using Prometheus. I am interested in OSS and I am not only using it, but also contributing to its development.
 
 ## Experience
 - Database Engineer @ NTT Data (2021 - Current)
@@ -13,6 +13,9 @@ I am working on PostgreSQL on k8s. I am in charge of designing and building a mo
 ## Education
 - Master of Science in Computer Science from Georgia Institute of Technology 
 - Bachelor of Science (Honours) in Physics from Queen's University 
+
+## Certificate
+- AWS Solutions Architect Associate
 
 ## Skill
 - Python
@@ -22,8 +25,5 @@ I am working on PostgreSQL on k8s. I am in charge of designing and building a mo
 - Kubernetes
 - Prometheus
 
-## Certificate
-- AWS Solutions Architect Associate
-
-## OSS Contributions
+## OSS Contribution
 - PostgreSQL
