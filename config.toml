@@ -35,9 +35,9 @@ theme = "LoveIt"
     title = "Talks - kkato.dev"
   [[menu.main]]
     weight = 5
-    identifier = "Portofolios"
+    identifier = "Portfolios"
     name = "Portfolios"
-    url = "/portofolios/"
+    url = "/portfolios/"
     title = "Portfolios - kkato.dev"
   [[menu.main]]
     weight = 6
