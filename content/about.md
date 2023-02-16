@@ -5,7 +5,7 @@ draft: false
 ---
 
 # 加藤 健
-静岡県出身のITエンジニアです。大学で物理学を学んだ後、新卒でSIerに入社し、PostgreSQLをk8s上で動かす取り組みをしております。主にPostgreSQLを監視するためのモニタリング・ロギング基盤の設計・構築を担当しています。OSSに興味があり、OSSを使うだけでなく、OSSへの開発貢献も行っています。
+静岡県出身のITエンジニアです。大学で物理を学んだ後、新卒でSIerに入社し、PostgreSQLをk8s上で動かす取り組みをしております。主にPostgreSQLを監視するためのモニタリング・ロギング基盤の設計・構築を担当しています。OSSに興味があり、OSSを使うだけでなく、OSSへの開発貢献も行っています。
 
 ## 経歴
 - データベースエンジニア @ NTTデータ (2021 - 現在)
@@ -29,4 +29,4 @@ draft: false
 - Prometheus
 
 ## OSS貢献
-- PostgreSQL
+- PostgreSQL Contributor
