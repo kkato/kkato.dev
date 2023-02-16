@@ -1,6 +1,6 @@
 baseURL = "https://kkato.dev/"
 # defaultContentLanguage = ["ja", "en"]
-languageCode = "ja"
+languageCode = "en"
 title = "kkato.dev"
 theme = "LoveIt"
 
