@@ -14,7 +14,7 @@ Hi! My name is Ken. I am a database engineer from Japan. I am currently working 
 - Master of Science in Computer Science from Georgia Institute of Technology
 - Bachelor of Science (Honours) in Physics from Queen's University
 
-## 資格
+## Certificate
 - AWS Solutions Architect Associate
 
 ## Skill

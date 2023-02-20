@@ -15,32 +15,32 @@ theme = "LoveIt"
     name = "Posts"
     url = "/posts/"
     title = "Posts - kkato.dev"
+  #[[menu.main]]
+  #  weight = 2
+  #  identifier = "Categories"
+  #  name = "Categories"
+  #  url = "/categories/"
+  #  title = "Categories - kkato.dev"
+  #[[menu.main]]
+  #  weight = 3
+  #  identifier = "Tags"
+  #  name = "Tags"
+  #  url = "/tags/"
+  #  title = "Tags - kkato.dev"
   [[menu.main]]
     weight = 2
-    identifier = "Categories"
-    name = "Categories"
-    url = "/categories/"
-    title = "Categories - kkato.dev"
-  [[menu.main]]
-    weight = 3
-    identifier = "Tags"
-    name = "Tags"
-    url = "/tags/"
-    title = "Tags - kkato.dev"
-  [[menu.main]]
-    weight = 4
     identifier = "Talks"
     name = "Talks"
     url = "/talks/"
     title = "Talks - kkato.dev"
   [[menu.main]]
-    weight = 5
+    weight = 3
     identifier = "Portfolios"
     name = "Portfolios"
     url = "/portfolios/"
     title = "Portfolios - kkato.dev"
   [[menu.main]]
-    weight = 6
+    weight = 4
     identifier = "About"
     name = "About"
     url = "/about"
