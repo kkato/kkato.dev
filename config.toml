@@ -74,17 +74,13 @@ theme = "LoveIt"
   [params.social]
     GitHub = "kkato"
     Linkedin = "ken-kato"
-    [params.social.Qiita]
-      Weight = 3
-      prefix = "https://qiita.com/"
-      id = "kkato"
-      title = "Qiita"
-      icon = {simpleicons = "qiita"}
-    #[params.social.Zenn]
-    #  prefix = "https://zenn.dev/"
-    #  id = "kenkato"
-    #  title = "Zenn"
-    #  icon = {simpleicons = "Zenn"}
+    [params.social.zenn]
+      weight = 3
+      title = "Zenn"
+      id = "kenkato"
+      prefix = "https://zenn.dev/"
+      icon = {src = "svg/icons/zenn.svg"}
+    
 
 [languages.ja]
 weight = 1
@@ -94,6 +90,6 @@ hasCJKLanguage = true
 
 [languages.en]
 weight = 2
-languageCode = "en-us"
+languageCode = "en"
 languageName = 'English'
 hasCJKLanguage = false
