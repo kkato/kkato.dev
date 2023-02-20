@@ -74,6 +74,17 @@ theme = "LoveIt"
   [params.social]
     GitHub = "kkato"
     Linkedin = "ken-kato"
+    [params.social.Qiita]
+      Weight = 3
+      prefix = "https://qiita.com/"
+      id = "kkato"
+      title = "Qiita"
+      icon = {simpleicons = "qiita"}
+    #[params.social.Zenn]
+    #  prefix = "https://zenn.dev/"
+    #  id = "kenkato"
+    #  title = "Zenn"
+    #  icon = {simpleicons = "Zenn"}
 
 [languages.ja]
 weight = 1
