@@ -2,6 +2,8 @@
 title: "ジョージア工科大学 コンピューターサイエンス修士課程(OMSCS)に入学してみて"
 date: 2023-02-23T23:55:57+09:00
 draft: true
+tags: [OMSCS, GeorgiaTech]
+Categories: [Career]
 ---
 
 | 学期        | 米ドル | 日本円 |

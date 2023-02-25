@@ -71,25 +71,35 @@ theme = "LoveIt"
     [params.home.posts]
       enable = true
       pagenate = 6
-  [params.social]
-    GitHub = "kkato"
-    Linkedin = "ken-kato"
-    [params.social.zenn]
-      weight = 3
-      title = "Zenn"
-      id = "kenkato"
-      prefix = "https://zenn.dev/"
-      icon = {src = "svg/icons/zenn.svg"}
-    
+  [params.page.share]
+    enable = false
 
 [languages.ja]
 weight = 1
 languageCode = "ja"
 languageName = '日本語'
 hasCJKLanguage = true
-
+  [languages.ja.params.social]
+  GitHub = "kkato"
+  Linkedin = "ken-kato"
+  Kaggle = "kenkato"
+    [languages.ja.params.social.zenn]
+    title = "Zenn"
+    id = "kenkato"
+    prefix = "https://zenn.dev/"
+    icon = {src = "svg/icons/zenn.svg"}
+    [languages.ja.params.social.atcoder]
+    title = "AtCoder"
+    id = "kkato"
+    prefix = "https://atcoder.jp/users/"
+    icon = {src = "svg/icons/atcoder.svg"}
+  
 [languages.en]
 weight = 2
 languageCode = "en"
 languageName = 'English'
 hasCJKLanguage = false
+  [languages.en.params.social]
+  GitHub = "kkato"
+  Linkedin = "ken-kato"
+  Kaggle = "kenkato"
