@@ -35,10 +35,10 @@ theme = "LoveIt"
     title = "Talks - kkato.dev"
   [[menu.main]]
     weight = 3
-    identifier = "Portfolios"
-    name = "Portfolios"
-    url = "/portfolios/"
-    title = "Portfolios - kkato.dev"
+    identifier = "Projects"
+    name = "Projects"
+    url = "/projects/"
+    title = "Projects - kkato.dev"
   [[menu.main]]
     weight = 4
     identifier = "About"
@@ -84,11 +84,13 @@ hasCJKLanguage = true
   Linkedin = "ken-kato"
   Kaggle = "kenkato"
     [languages.ja.params.social.zenn]
+    weight = 4
     title = "Zenn"
     id = "kenkato"
     prefix = "https://zenn.dev/"
     icon = {src = "svg/icons/zenn.svg"}
     [languages.ja.params.social.atcoder]
+    weight = 5
     title = "AtCoder"
     id = "kkato"
     prefix = "https://atcoder.jp/users/"

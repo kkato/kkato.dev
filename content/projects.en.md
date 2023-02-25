@@ -1,5 +1,5 @@
 ---
-title: "Portfolios"
+title: "Projects"
 date: 2023-02-16T21:58:13+09:00
 draft: false
 ---
