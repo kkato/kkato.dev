@@ -9,12 +9,12 @@ theme = "LoveIt"
   email = "kkato149@gmail.com"
 
 [menu]
-  [[menu.main]]
-    weight = 1
-    identifier = "Posts"
-    name = "Posts"
-    url = "/posts/"
-    title = "Posts - kkato.dev"
+  #[[menu.main]]
+  #  weight = 1
+  #  identifier = "Posts"
+  #  name = "Posts"
+  #  url = "/posts/"
+  #  title = "Posts - kkato.dev"
   #[[menu.main]]
   #  weight = 2
   #  identifier = "Categories"
@@ -28,6 +28,12 @@ theme = "LoveIt"
   #  url = "/tags/"
   #  title = "Tags - kkato.dev"
   [[menu.main]]
+    weight = 1
+    identifier = "About"
+    name = "About"
+    url = "/about"
+    title = "About - kkato.dev"
+  [[menu.main]]
     weight = 2
     identifier = "Talks"
     name = "Talks"
@@ -39,12 +45,6 @@ theme = "LoveIt"
     name = "Projects"
     url = "/projects/"
     title = "Projects - kkato.dev"
-  [[menu.main]]
-    weight = 4
-    identifier = "About"
-    name = "About"
-    url = "/about"
-    title = "About - kkato.dev"
 
 [params]
   images = ["images/sagarifuji.png"]
@@ -82,19 +82,19 @@ hasCJKLanguage = true
   [languages.ja.params.social]
   GitHub = "kkato"
   Linkedin = "ken-kato"
-  Kaggle = "kenkato"
+  #Kaggle = "kenkato"
     [languages.ja.params.social.zenn]
     weight = 4
     title = "Zenn"
     id = "kenkato"
     prefix = "https://zenn.dev/"
     icon = {src = "svg/icons/zenn.svg"}
-    [languages.ja.params.social.atcoder]
-    weight = 5
-    title = "AtCoder"
-    id = "kkato"
-    prefix = "https://atcoder.jp/users/"
-    icon = {src = "svg/icons/atcoder.svg"}
+    #[languages.ja.params.social.atcoder]
+    #weight = 5
+    #title = "AtCoder"
+    #id = "kkato"
+    #prefix = "https://atcoder.jp/users/"
+    #icon = {src = "svg/icons/atcoder.svg"}
   
 [languages.en]
 weight = 2
@@ -104,4 +104,4 @@ hasCJKLanguage = false
   [languages.en.params.social]
   GitHub = "kkato"
   Linkedin = "ken-kato"
-  Kaggle = "kenkato"
+  #Kaggle = "kenkato"
