@@ -3,6 +3,7 @@ defaultContentLanguage = ["ja", "en"]
 languageCode = "en"
 title = "kkato.dev"
 theme = "LoveIt"
+googleAnalytics = "G-H3BGP3WXK3"
 
 [author]
   name = "Ken Kato"
