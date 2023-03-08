@@ -5,7 +5,7 @@ draft: false
 ---
 
 # 加藤 健
-大学で物理を学んだ後、新卒でSIerに入社し、PostgreSQLの研究開発をしています。PostgreSQL on k8sに取り組んでおり、主にPrometheus, Garafana Lokiなどを使ったモニタリング・ロギング基盤の設計・構築を担当しています。OSSを使用するだけでなく、開発貢献にも興味があります。
+大学で物理を学んだ後、新卒でSIerに入社し、PostgreSQLの研究開発をしています。PostgreSQL on k8sに取り組んでおり、主にPrometheus, Garafana Lokiなどを使ったモニタリング・ロギング基盤の設計・構築を担当しています。OSSの使用だけでなく、開発貢献にも興味があります。
 
 ## 経歴
 - データベースエンジニア @ NTTデータ (2021 - 現在)
