@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Ken Kato
-Hi! My name is Ken. I am a R&D engineer from Japan. I am currently working on PostgreSQL on k8s and in charge of designing and building the monitoring and logging infrastructure using Prometheus, Grafana Loki. I am interested in OSS contributions as well as using it.
+Hi! My name is Ken. I am a database engineer from Japan. I am currently working on PostgreSQL on k8s and in charge of designing and building the monitoring and logging infrastructure using Prometheus, Grafana Loki. I am interested in OSS contributions as well as using it.
 
 ## Experience
 - Database Engineer @ NTT data (2021 - Current)
